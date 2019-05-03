@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+table{
+    margin: auto;
+    text-align: center;
+}
+
+.resultContainer{
+    margin: 8% 15% 5% 15%;
+}
+
+#totalAmount{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#rupiahFraction{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    height: 30px;
+}
+
+#fractionCounter{
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    height: 30px;
+}
+
+#leftAmount{
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    color: red;
+}
+
+#errorMessage{
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+}
+
+
+

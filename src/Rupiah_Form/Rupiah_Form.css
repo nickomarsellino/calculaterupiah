@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+#rupiahAmountInput{
+    width: 40%;
+    margin-right: 2px;
+    padding: 8px 10px;
+    box-sizing: border-box;
+}
+
+#enterButton{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2px;
+    width: 10%;
+    padding: 9px 64px 11px 25px;
+    color: #fff;
+    background-color: #2ecc71;
+    border: none;
+}
+
+#enterButton:hover{
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2px;
+    width: 10%;
+    padding: 9px 64px 11px 25px;
+    color: #fff;
+    background-color: #2dc369;
+    border: none;
+}
+
+@media screen and (max-width: 1220px) {
+    #enterButton{padding: 9px 64px 11px 25px;}
+}
